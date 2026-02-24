@@ -1,15 +1,6 @@
 {
     "wallpaper": "https://wp.upx8.com/api.php",
     "spider": "./custom_spider.jar;md5;58a6e012f4b819e573af3b2515c61dcf",
-    "lives": [
-        {
-          "name": "本地live文件",
-          "type":"0",
-          "pass": true,
-          "url":"http://127.0.0.1:9978/file/XYQTVBox/live.txt",
-          "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",     
-          "logo": "https://epg.iill.top/logo/{name}.png"
-        },
         {
           "name": "BMCH",
           "type":"0",
