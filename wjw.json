@@ -10,22 +10,7 @@
           "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",     
           "logo": "https://epg.iill.top/logo/{name}.png"
         },
-        {
-          "name": "BMCH",
-          "type":"0",
-          "pass": true,
-          "url": "https://gh.halonice.com/https:/raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u",
-          "epg": "https://epg.v1.mk/json?ch={name}&date={date}",     
-          "logo": "https://epg.v1.mk/logo/{name}.png"
-        },
-        {
-          "name": "Tianmu",
-          "type":"0",
-          "pass": true,
-          "url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt",
-          "epg": "https://epg.v1.mk/json?ch={name}&date={date}",     
-          "logo": "https://epg.v1.mk/logo/{name}.png"
-        }
+        
         
     ],
     "sites": [
