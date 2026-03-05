@@ -1,14 +1,16 @@
 {
     "wallpaper": "https://wp.upx8.com/api.php",
     "spider": "./custom_spider.jar;md5;58a6e012f4b819e573af3b2515c61dcf",
-    "lives": 
+    "lives": [
         {
           "name": "live",
           "type":"0",
           "pass": true,
           "url":"https://raw.githubusercontent.com/wjw8629/Plist/main/source.txt",
           "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",     
-          "logo": "https://epg.iill.top/logo/{name}.png"},
+          "logo": "https://epg.iill.top/logo/{name}.png"
+        }
+    ],
       
     "sites": [
         {"key":"csp_LocalFile","name":"本机文件(接口完全免费)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":0},
